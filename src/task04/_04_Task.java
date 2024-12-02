@@ -28,7 +28,7 @@ public class _04_Task {
             System.out.println("Alışverişinizi iptal etmek için 6'yı tuşlayınız.");
             System.out.print("Seçiminiz= ");
             secim = scanner.nextInt();
-            cevap="";
+
 
             switch (secim) {
 
